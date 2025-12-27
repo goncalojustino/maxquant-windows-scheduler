@@ -32,7 +32,6 @@ The scheduler runs continuously, watches a queue directory for MaxQuant XML file
 - **MaxQuant** installed locally
 > This script **will not run** under Windows PowerShell 5.1.
 
----
 
 ## Directory layout
 The scheduler expects the following directory structure:
