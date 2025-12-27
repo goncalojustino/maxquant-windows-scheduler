@@ -142,10 +142,9 @@ It is designed for **local, deterministic execution**, not for distributed workl
 This project is licensed under the MIT License.
 
 ## Citation
-If you use this scheduler in published work, please cite the repository:
+If you use this scheduler in published work, please cite it as:
 
-```
-G. Justino, maxquant-windows-scheduler, GitHub (2025)
-```
+G. Justino, *maxquant-windows-scheduler*, Zenodo (2025).  
+https://doi.org/10.5281/zenodo.18070281
 
-This tool was developed to support reproducible, unattended MaxQuant analysis workflows on Windows-based proteomics systems.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18070281.svg)](https://doi.org/10.5281/zenodo.18070281)
